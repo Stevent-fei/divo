@@ -1,0 +1,12 @@
+name: Bug Report
+labels: ["kind/bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Problem
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What happen?
+      description: describe the problem you meet.
