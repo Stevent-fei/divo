@@ -6,7 +6,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:           "crocodile",
+	Use:           "divo",
 	Short:         "very useful tool",
 	Long:          "",
 	SilenceUsage:  true,
